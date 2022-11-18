@@ -1,14 +1,23 @@
 # project17
-Glory Luxre
+✨GLORY LUXE✨
+_______________
 
 This is a web application developed for health based website in india.
 
 ###This is a web based health application has been developed for the accomplishment of future ready talent internship program launched by microsoft, Future skills prime, Quess, github and EY.
 
 
+Azure Technologies used for project :
+______________________________________
+     *Static web apps 
+     *Health bot 
+
 **project link** - https://yukesh1717.github.io/project17/
 
+
 **screen shots**
+_________________
+
 ![image](https://user-images.githubusercontent.com/117888789/202747341-1b686a93-0b26-4fef-baf1-faaba3755cc1.png)
 
 ![image](https://user-images.githubusercontent.com/117888789/202747672-865ce9d0-65cf-40e0-937f-4c3d71c2357b.png)
