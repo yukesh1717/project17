@@ -27,3 +27,12 @@ _________________
 ##microsoft azure visit page.
 
 https://account.microsoft.com/profile/?fref=home.banner.profile-column.title
+
+
+TECH STACK🔑
+_____________
+     *Azure(Hosting)
+     *HTML
+     *CSS
+     *Booststrap
+     *JavaScript
